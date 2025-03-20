@@ -16,3 +16,5 @@
 - 2.sb
 - 7.zip
 - 7.ls
+
+More information about premium domains can be found [here](https://s.ee/docs/basics/domains/).
