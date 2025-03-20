@@ -42,3 +42,7 @@ www.ki
 ```
 
 More information about premium domains can be found [here](https://s.ee/docs/basics/domains/).
+
+## Support
+
+If you have any questions or need help, please contact us at [s.ee/contact/](https://s.ee/contact/) or join Discord: [s.ee/discord](https://s.ee/discord).
