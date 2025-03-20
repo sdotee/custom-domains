@@ -15,6 +15,14 @@ s.tt
 s.lu
 ```
 
+single-digit domains are available for premium users.
+
+```
+2.sb
+7.zip
+7.ls
+```
+
 2-character domains are also available for premium users.
 
 ```
@@ -23,12 +31,14 @@ ke.ke
 ki.ki
 ```
 
-single-digit domains are available for premium users.
+3-character domains are also available for premium users.
 
 ```
-2.sb
-7.zip
-7.ls
+www.sb
+www.re
+www.tl
+www.ht
+www.ki
 ```
 
 More information about premium domains can be found [here](https://s.ee/docs/basics/domains/).
